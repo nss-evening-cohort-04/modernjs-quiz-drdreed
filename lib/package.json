@@ -17,6 +17,7 @@
     "matchdep": "^0.3.0"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "jquery": "^3.1.1"
   }
 }
